@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 from scipy import misc 
 class AF2(nn.Module):
 
+
     def __init__(self, num_classes=26, aux_logits=False, transform_input=False,ret = False): #ccc changed here
         super(AF2, self).__init__()
         self.aux_logits = aux_logits
