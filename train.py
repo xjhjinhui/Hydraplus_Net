@@ -77,7 +77,7 @@ set = dataload.myImageFloder(root = "./data/PA-100K/release_data/release_data",
                     mode = 'train' )
 imgLoader = torch.utils.data.DataLoader(
          set, 
-         batch_size= 16, shuffle= True, num_workers= 2)
+         batch_size= 16, shuffle= True, num_workers= 2)  #if occurred 'RuntimeError: CUDA error: out of memory', please change the batch_size smaller.
 
 
 print("image numbers %d"%len(set) )
@@ -221,7 +221,8 @@ for epoch in range(1000):
                 running_loss = 0.0
 
     if epoch % 5 == 0:
-        checkpoint(0)
+        checkpoint(epoch)       #  If you want to get the name of checkpoint_epoch_60 or higer number epoch
+                            #  please change the train.py line 224 'checkpoint(0)' into 'checkpoint(epoch)'
         '''for param_group in optimizer.param_groups:
             param_group['lr'] = param_group['lr'] * 0.95'''
 
