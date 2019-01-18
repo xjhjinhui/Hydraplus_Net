@@ -48,7 +48,7 @@ python train.py -m AF3 -mpath MNet/checkpoint_epoch_60
 > After separately fine-tuning three MDA modules in AF-net, we fix both the M-net and AF-net and train the remaining GAP and FC layers.
 
 ```
-python train.py -m HP  -mpath  MNet/checkpoint_epoch_60 -af1path AF1/checkpoint_epoch_0 -af2path AF2/checkpoint_epoch_0 -af3path AF3/checkpoint_epoch_0 -p HP/checkpoint_epoch_0
+python train.py -m HP  -mpath  MNet/checkpoint_epoch_60 -af1path AF1/checkpoint_epoch_0 -af2path AF2/checkpoint_epoch_0 -af3path AF3/checkpoint_epoch_0 
 ```
 
 
