@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-11T12:34:25.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="lTLqgGZqPQzCxlKyzVS7" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-11T13:19:54.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="NIpFH3ZFqBaymPOOr1tY" version="12.5.1" type="github">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="第 1 页">
     <mxGraphModel dx="2194" dy="1947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -474,11 +474,11 @@
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-65" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-57" target="ioMPT5hYQp6Kv1KVYnrM-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="217" y="-606" as="targetPoint"/>
+            <mxPoint x="569" y="-194" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-57" value="x0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBorderColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="82" y="-499" width="40" height="20" as="geometry"/>
+          <mxGeometry x="434" y="-87" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-118" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;entryX=0.571;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-61" target="ioMPT5hYQp6Kv1KVYnrM-116">
           <mxGeometry relative="1" as="geometry">
@@ -505,7 +505,7 @@
           <mxGeometry x="-392" y="-160" width="58" height="39" as="geometry"/>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-64" value="平均池化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="132" y="-403" width="58" height="39" as="geometry"/>
+          <mxGeometry x="484" y="9" width="58" height="39" as="geometry"/>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-117" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;entryX=0.071;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-67" target="ioMPT5hYQp6Kv1KVYnrM-116">
           <mxGeometry relative="1" as="geometry">
@@ -603,6 +603,12 @@
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-127" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-740" y="-707" width="50" height="575" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-133" value="全连接层-8192" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-573" y="69" width="120" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-134" value="行人图片" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-463" y="-979" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
