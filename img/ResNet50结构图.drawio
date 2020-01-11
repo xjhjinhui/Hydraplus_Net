@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-11T14:15:16.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="LhGf0sIPM639knBc5k9U" version="12.5.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-11T14:16:59.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="tQgV7TkOXLafDyruSExE" version="12.5.1" type="github" pages="2">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="模型">
     <mxGraphModel dx="2194" dy="1947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -526,8 +526,11 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P9cjg-vtql8cH4yHUUPI-1" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-92" target="ioMPT5hYQp6Kv1KVYnrM-47">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-92" value="ResNet50的第一个瓶颈模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-676" y="-451" width="176" height="41" as="geometry"/>
+          <mxGeometry x="-367" y="-451" width="176" height="41" as="geometry"/>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-108" value="" style="endArrow=classic;html=1;shadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-51" target="ioMPT5hYQp6Kv1KVYnrM-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
