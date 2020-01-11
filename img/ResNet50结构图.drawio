@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-11T12:21:05.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="nGEp84k3MnwmDhsgG6y3" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-11T12:34:25.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="lTLqgGZqPQzCxlKyzVS7" version="12.5.1" type="github">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="第 1 页">
     <mxGraphModel dx="2194" dy="1947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -574,14 +574,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-131" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-114" target="ioMPT5hYQp6Kv1KVYnrM-126">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-114" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="-577" y="-94" width="14" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-130" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-115" target="ioMPT5hYQp6Kv1KVYnrM-125">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-115" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="-413" y="-94" width="14" height="14" as="geometry"/>
         </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-132" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;" edge="1" parent="1" source="ioMPT5hYQp6Kv1KVYnrM-116" target="ioMPT5hYQp6Kv1KVYnrM-124">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ioMPT5hYQp6Kv1KVYnrM-116" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
           <mxGeometry x="-247" y="-94" width="14" height="14" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-124" value="全连接层-1024" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-36" width="120" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-125" value="全连接层-2048" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-466" y="-36" width="120" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-126" value="全连接层-8192" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-627" y="-36" width="120" height="39" as="geometry"/>
+        </mxCell>
+        <mxCell id="ioMPT5hYQp6Kv1KVYnrM-127" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="-707" width="50" height="575" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
