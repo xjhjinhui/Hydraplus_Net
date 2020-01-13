@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T14:14:02.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="yfxla56JRXalOrcKkl2n" version="12.5.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-13T14:22:09.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="QEt2JrfHZGhD22IEhFSN" version="12.5.1" type="github" pages="2">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="模型">
     <mxGraphModel dx="1187" dy="1986" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -877,7 +877,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UINzlrXQkOYynsX6sjV3" name="第 2 页">
-    <mxGraphModel dx="1231" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="1476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="3EjxSdbz4pWzL3qQNzZs-0"/>
         <mxCell id="3EjxSdbz4pWzL3qQNzZs-1" parent="3EjxSdbz4pWzL3qQNzZs-0"/>
@@ -1074,6 +1074,9 @@
         </mxCell>
         <mxCell id="fzCemnxE5U4DDaS74ko1-57" value="行人重识别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;direction=south;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
           <mxGeometry x="842.2680412371135" y="172.81990521327012" width="17.7319587628866" height="36.96682464454977" as="geometry"/>
+        </mxCell>
+        <mxCell id="fzCemnxE5U4DDaS74ko1-59" value="卷积层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
+          <mxGeometry x="226" y="73" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
