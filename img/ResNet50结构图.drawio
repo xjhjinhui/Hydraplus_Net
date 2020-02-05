@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-05T12:01:57.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Oa-ENmHqS5BlwJsJFrJi" version="12.6.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-05T12:23:27.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="OITCLzP6gbv5HyMcm6nA" version="12.6.5" type="github" pages="4">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="模型">
     <mxGraphModel dx="1216" dy="1767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -1366,7 +1366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YQd7d_AAirm9LsZ0jOgk" name="第 4 页">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="326" dy="274" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-0"/>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-1" parent="NVilGjoa1BdJzC2T-QmG-0"/>
@@ -1408,8 +1408,14 @@
         <mxCell id="NVilGjoa1BdJzC2T-QmG-10" value="通道注意力模块" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
           <mxGeometry x="120" y="147" width="80" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-61" value="通道注意力模块Mc" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
+          <mxGeometry x="650" y="360.5" width="80" height="20" as="geometry"/>
+        </mxCell>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-12" value="空间注意力模块" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=16;direction=west;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
           <mxGeometry x="280" y="70" width="30" height="117" as="geometry"/>
+        </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-63" value="空间注意力模块Ms" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=16;direction=west;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
+          <mxGeometry x="505" y="444" width="30" height="117" as="geometry"/>
         </mxCell>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-14" value="" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NVilGjoa1BdJzC2T-QmG-1" source="NVilGjoa1BdJzC2T-QmG-3" target="NVilGjoa1BdJzC2T-QmG-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1585,11 +1591,23 @@
         <mxCell id="NVilGjoa1BdJzC2T-QmG-57" value="卷积层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
           <mxGeometry x="230" y="453" width="40" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NVilGjoa1BdJzC2T-QmG-1" source="NVilGjoa1BdJzC2T-QmG-59" target="NVilGjoa1BdJzC2T-QmG-63">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-59" value="激活函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
           <mxGeometry x="380" y="491" width="60" height="23" as="geometry"/>
         </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NVilGjoa1BdJzC2T-QmG-1" source="NVilGjoa1BdJzC2T-QmG-60" target="NVilGjoa1BdJzC2T-QmG-61">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="NVilGjoa1BdJzC2T-QmG-60" value="激活函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
           <mxGeometry x="550" y="357.5" width="60" height="23" as="geometry"/>
+        </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-65" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
+          <mxGeometry x="46" y="379" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="NVilGjoa1BdJzC2T-QmG-66" value="F&#39;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NVilGjoa1BdJzC2T-QmG-1">
+          <mxGeometry x="46" y="514" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
