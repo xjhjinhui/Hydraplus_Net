@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-11T02:13:33.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="QWZPz-GyOqxlfytadGlb" version="12.6.6" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-11T03:01:27.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="YSfN-N-FlpZq3fCuMp-D" version="12.6.6" type="github" pages="4">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="模型">
-    <mxGraphModel dx="1504" dy="1676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
+    <mxGraphModel dx="2243" dy="1970" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -719,11 +719,11 @@
         </mxCell>
         <mxCell id="GODQRFyR0mhgNB3zjsjF-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P9cjg-vtql8cH4yHUUPI-2" target="GODQRFyR0mhgNB3zjsjF-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-386" y="266" as="targetPoint"/>
+            <mxPoint x="-386" y="267" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="P9cjg-vtql8cH4yHUUPI-2" value="特征金字塔融合" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-459" y="141.5" width="120" height="39" as="geometry"/>
+          <mxGeometry x="-459" y="123" width="120" height="39" as="geometry"/>
         </mxCell>
         <mxCell id="P9cjg-vtql8cH4yHUUPI-8" value="" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;" parent="1" source="P9cjg-vtql8cH4yHUUPI-3" target="P9cjg-vtql8cH4yHUUPI-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -859,11 +859,6 @@
         <mxCell id="P9cjg-vtql8cH4yHUUPI-61" value="中间卷积部分" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="277" y="701" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="GODQRFyR0mhgNB3zjsjF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GODQRFyR0mhgNB3zjsjF-1" target="P9cjg-vtql8cH4yHUUPI-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-399" y="407.75" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GODQRFyR0mhgNB3zjsjF-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=right;labelPosition=left;pointerEvents=1;verticalLabelPosition=top;verticalAlign=bottom;rotation=270;" parent="1" vertex="1">
           <mxGeometry x="-424" y="-130" width="50" height="457.75" as="geometry"/>
         </mxCell>
@@ -871,7 +866,7 @@
           <mxGeometry x="-436" y="-202" width="50" height="349" as="geometry"/>
         </mxCell>
         <mxCell id="GODQRFyR0mhgNB3zjsjF-4" value="全连接层" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-459" y="202.5" width="120" height="39" as="geometry"/>
+          <mxGeometry x="-459" y="180" width="120" height="39" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
