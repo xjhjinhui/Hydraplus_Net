@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-14T11:08:47.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="37Y_t-GZ3mLQ6bdiDH_l" version="12.7.0" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-02-14T11:46:48.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="Y5xS87rrciEZXHzAzRsE" version="12.7.0" type="github" pages="4">
   <diagram id="nUwmie2sHwCzWKocFMr6" name="模型">
     <mxGraphModel dx="1838" dy="1748" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="980" pageHeight="690" math="1" shadow="0">
       <root>
@@ -872,7 +872,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UINzlrXQkOYynsX6sjV3" name="第 2 页">
-    <mxGraphModel dx="1038" dy="1238" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="3EjxSdbz4pWzL3qQNzZs-0"/>
         <mxCell id="3EjxSdbz4pWzL3qQNzZs-1" parent="3EjxSdbz4pWzL3qQNzZs-0"/>
@@ -1079,7 +1079,7 @@
         <mxCell id="zrTuUgK581QXblD_D89j-1" value="权重调整" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
           <mxGeometry x="671" y="164.0820512820513" width="29" height="34.54358974358975" as="geometry"/>
         </mxCell>
-        <mxCell id="zrTuUgK581QXblD_D89j-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
+        <mxCell id="zrTuUgK581QXblD_D89j-2" value="P1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
           <mxGeometry x="414" y="100.39" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="zrTuUgK581QXblD_D89j-5" value="注意力程度最高的属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
@@ -1087,6 +1087,9 @@
         </mxCell>
         <mxCell id="zrTuUgK581QXblD_D89j-6" value="注意力程度最低的属性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
           <mxGeometry x="760.0799999999999" y="361" width="66.72" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="zrTuUgK581QXblD_D89j-8" value="P2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fzCemnxE5U4DDaS74ko1-58">
+          <mxGeometry x="499" y="171.58999999999997" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
